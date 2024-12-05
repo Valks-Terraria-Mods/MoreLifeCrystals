@@ -1,4 +1,4 @@
 author = valkyrienyanko
-version = 1.4.2
+version = 1.4.3
 displayName = More Life Crystals
-homepage = https://github.com/Valks-Terraria-Mods/MoreLifeCrystals
+homepage = https://discord.gg/j8HQZZ76r8
