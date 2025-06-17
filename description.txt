@@ -1,6 +1,4 @@
-Adds a lot more life crystals to your world on world generation.
-
-Adds roughly 5-10x more life crystals below surface.
+Adds around 2x more life crystals to your world. (The amount can be configured in-game)
 
 Discord for suggestions and support: https://discord.gg/j8HQZZ76r8
 Source: https://github.com/Valks-Terraria-Mods/MoreLifeCrystals

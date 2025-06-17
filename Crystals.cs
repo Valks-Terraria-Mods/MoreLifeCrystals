@@ -5,9 +5,9 @@ namespace MoreLifeCrystals;
 
 public class Config : ModConfig
 {
-    public override ConfigScope Mode => ConfigScope.ClientSide;
+    public override ConfigScope Mode => ConfigScope.ServerSide;
 
-    [DefaultValue(100)]
+    [DefaultValue(20)]
     public int LifeCrystalsAmount;
 }
 
