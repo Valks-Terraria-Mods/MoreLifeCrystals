@@ -1,4 +1,4 @@
 author = valkyrienyanko
-version = 1.4.4
+version = 1.4.5
 displayName = More Life Crystals
 homepage = https://discord.gg/j8HQZZ76r8

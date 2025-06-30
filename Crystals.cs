@@ -7,7 +7,7 @@ public class Config : ModConfig
 {
     public override ConfigScope Mode => ConfigScope.ServerSide;
 
-    [DefaultValue(20)]
+    [DefaultValue(10)]
     public int LifeCrystalsAmount;
 }
 
